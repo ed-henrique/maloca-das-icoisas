@@ -12,9 +12,13 @@ Ao apertar o botão, devem ser realizadas essas ações:
 
 - Envio de mensagem de socorro via Whatsapp;
 - Alerta sonoro via buzzer;
-- Log deve ser mostrado na tela e armazenado em banco de dados;
+- Log deve ser mostrado na tela;
 
 ## Requisitos
+
+### Pessoal
+
+No mínimo 1 pessoa.
 
 ### Hardware
 
@@ -26,6 +30,15 @@ Ao apertar o botão, devem ser realizadas essas ações:
 ### Software
 
 - Acesso à API do Whatsapp [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/);
+- Instalação da Arduino IDE, com as bibliotecas UrlEncode, HTTPClient e ESP32;
+
+## Etapas
+
+1. Monte o circuito conforme o especificado na [Simulaçao](#simulacao);
+2. Instalar as dependências;
+3. Utilizar o [código-fonte](./main.ino), modificando as variáveis e constantes destacadas como `IMPORTANTE` com os seus dados;
+4. Compilar o código e enviá-lo ao ESP32;
+5. Executar;
 
 ## Simulação
 
