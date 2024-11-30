@@ -1,6 +1,6 @@
 # Maloca das iCoisas
 
-Projetos realizados no curso Maloca das iCoisas pelo grupo Os Suricatos Cibernéticos.
+Projetos realizados no curso Maloca das iCoisas pelo grupo 13 - Os Suricatos Cibernéticos.
 
 ## Equipe
 
