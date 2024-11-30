@@ -21,11 +21,11 @@ Ao apertar o botão, devem ser realizadas essas ações:
 
 ### Software
 
-- Acesso à API do Whatsapp [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/)
+- Acesso à API do Whatsapp [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/);
 
 ## Simulação
 
-<!-- Inclua aqui -->
+![Simulação](./sim.jpeg)
 
 ## *Proof of Concept (PoC)*
 
