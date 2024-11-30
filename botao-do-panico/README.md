@@ -1,12 +1,8 @@
 # Botão do Pânico
 
-O botão do pânico é um dispositivo de segurança utilizado para alertar rapidamente autoridades ou serviços de emergência em situações de risco, como assaltos, sequestros ou agressões. Ele pode ser um botão físico ou uma função em dispositivos móveis, como aplicativos de celular, e ao ser acionado, envia um sinal discreto para a polícia, familiares ou centros de monitoramento. Casos comuns de uso incluem em situações de violência doméstica, em estabelecimentos comerciais durante um assalto, por profissionais que trabalham sozinhos em locais isolados ou por pessoas em risco iminente de perigo, como idosos ou pessoas com deficiência.
-
-## Informações
-
 [Link](https://github.com/ed-henrique/maloca-das-icoisas/edit/main/botao-do-panico)
 
-![Big Picture d9o Funcionamento](https://github.com/ed-henrique/maloca-das-icoisas/blob/main/botao-do-panico/BIG%20PICTURE%20BOT%C3%87AO%20DE%20PANICO.png)
+O botão do pânico é um dispositivo de segurança utilizado para alertar rapidamente autoridades ou serviços de emergência em situações de risco, como assaltos, sequestros ou agressões. Ele pode ser um botão físico ou uma função em dispositivos móveis, como aplicativos de celular, e ao ser acionado, envia um sinal discreto para a polícia, familiares ou centros de monitoramento. Casos comuns de uso incluem em situações de violência doméstica, em estabelecimentos comerciais durante um assalto, por profissionais que trabalham sozinhos em locais isolados ou por pessoas em risco iminente de perigo, como idosos ou pessoas com deficiência.
 
 ## Metas
 
@@ -34,7 +30,7 @@ No mínimo 1 pessoa.
 - Acesso à API do Whatsapp [CallMeBot](https://www.callmebot.com/blog/free-api-whatsapp-messages/);
 - Instalação da Arduino IDE, com as bibliotecas UrlEncode, HTTPClient e ESP32;
 
-## Etapas
+## Como Configurar Ambiente de Desenvolvimento
 
 1. Monte o circuito conforme o especificado na [Simulaçao](#simulacao);
 2. Instalar as dependências;
@@ -42,11 +38,26 @@ No mínimo 1 pessoa.
 4. Compilar o código e enviá-lo ao ESP32;
 5. Executar;
 
+## Etapas
+
+<img alt="Storyboard" src="./storyboard.png" width="800">
+
+### Situação Hipotética
+
+1. Paciente se acidenta;
+2. Paciente necessita de socoroo;
+3. Paciente aciona botão do pânico;
+4. O pedido de socorro é enviado via wifi;
+5. O cuidador recebe o pedido de socorro via Whatsapp;
+6. O cuidador vai prestar socorro ao paciente;
+
 ## Simulação
 
-![Simulação](./sim.jpeg)
+[Link](https://wokwi.com/projects/416021965167276033)
 
-![Simulação com Indicação](./sim2.png)
+<img alt="Simulação" src="./sim.jpeg" width="800">
+
+<img alt="Simulação com Indicação" src="./sim2.png" width="800">
 
 - O pino 21 se conecta ao resistor de 330 ohms e ao polo positivo do buzzer;
 - O pino 23 se conecta ao botão;
