@@ -2,6 +2,10 @@
 
 O botão do pânico é um dispositivo de segurança utilizado para alertar rapidamente autoridades ou serviços de emergência em situações de risco, como assaltos, sequestros ou agressões. Ele pode ser um botão físico ou uma função em dispositivos móveis, como aplicativos de celular, e ao ser acionado, envia um sinal discreto para a polícia, familiares ou centros de monitoramento. Casos comuns de uso incluem em situações de violência doméstica, em estabelecimentos comerciais durante um assalto, por profissionais que trabalham sozinhos em locais isolados ou por pessoas em risco iminente de perigo, como idosos ou pessoas com deficiência.
 
+## Informações
+
+[Link](https://github.com/ed-henrique/maloca-das-icoisas/edit/main/botao-do-panico)
+
 ## Metas
 
 Ao apertar o botão, devem ser realizadas essas ações:
