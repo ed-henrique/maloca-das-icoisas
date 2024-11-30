@@ -6,6 +6,8 @@ O botão do pânico é um dispositivo de segurança utilizado para alertar rapid
 
 [Link](https://github.com/ed-henrique/maloca-das-icoisas/edit/main/botao-do-panico)
 
+![Big Picture d9o Funcionamento](https://github.com/ed-henrique/maloca-das-icoisas/blob/main/botao-do-panico/BIG%20PICTURE%20BOT%C3%87AO%20DE%20PANICO.png)
+
 ## Metas
 
 Ao apertar o botão, devem ser realizadas essas ações:
