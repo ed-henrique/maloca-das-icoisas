@@ -27,6 +27,13 @@ Ao apertar o botão, devem ser realizadas essas ações:
 
 ![Simulação](./sim.jpeg)
 
+![Simulação com Indicação](./sim2.png)
+
+- O pino 21 se conecta ao resistor de 330 ohms e ao polo positivo do buzzer;
+- O pino 23 se conecta ao botão;
+- O GND se conecta ao botão, ao polo negativo do LED e ao polo negativo do buzzer;
+- O resistor se conecta ao polo positivo do LED;
+
 ## *Proof of Concept (PoC)*
 
 https://github.com/user-attachments/assets/694ea2ef-6716-475d-92dc-67022a44746a
