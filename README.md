@@ -11,3 +11,4 @@ Projetos realizados no curso Maloca das iCoisas pelo grupo 13 - Os Suricatos Cib
 ## Projetos Realizados
 
 1. [Botão do Pânico](./botao-do-panico)
+2. [Dispenser de Sabão](./dispenser-de-sabao)
