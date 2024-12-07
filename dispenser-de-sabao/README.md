@@ -29,7 +29,7 @@ No mínimo 1 pessoa.
 
 ## Como Configurar Ambiente de Desenvolvimento
 
-1. Monte o circuito conforme o especificado na [Simulaçao](#simulacao);
+1. Monte o circuito conforme o especificado na [simulação](#simulacao);
 2. Instalar as dependências;
 3. Utilizar o [código-fonte](./main.ino);
 4. Compilar o código e enviá-lo ao ESP32;
