@@ -50,16 +50,9 @@ No mínimo 1 pessoa.
 
 ## Simulação
 
-<!--[Link](https://wokwi.com/projects/416021965167276033)
+[Link](https://wokwi.com/projects/416623482930152449)
 
-<img alt="Simulação" src="./sim.jpeg" width="800">
-
-<img alt="Simulação com Indicação" src="./sim2.png" width="800">
-
-- O pino 21 se conecta ao resistor de 330 ohms e ao polo positivo do buzzer;
-- O pino 23 se conecta ao botão;
-- O GND se conecta ao botão, ao polo negativo do LED e ao polo negativo do buzzer;
-- O resistor se conecta ao polo positivo do LED;-->
+<img alt="Simulação com Indicação" src="./sim.png" width="800">
 
 ## *Proof of Concept (PoC)*
 
