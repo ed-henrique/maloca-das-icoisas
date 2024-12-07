@@ -6,7 +6,7 @@ O projeto de IoT propõe um sistema automatizado para dispenser de sabão, integ
 
 ## Metas
 
-Ao ser detectado movimento e presença numa distância de 30 centímetros, uma mensagem deve ser enviada indicando que alguém estava presente. Além disso, se o botão for apertado enquanto foi detectada a presença, o dispenser de sabão deve liberar sabão, o que é indicado via uma mensagem.
+Ao ser detectado movimento e presença numa distância de 30 centímetros, uma mensagem deve ser enviada indicando que alguém estava presente. Além disso, se o botão for apertado enquanto foi detectada a presença, o dispenser de sabão deve liberar sabão, o que é indicado via uma mensagem e o barulho do buzzer.
 
 ## Requisitos
 
