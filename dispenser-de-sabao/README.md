@@ -52,9 +52,9 @@ No mínimo 1 pessoa.
 
 [Link](https://wokwi.com/projects/416623482930152449)
 
-<img alt="Simulação" src="./sim.png" width="800">
+<img alt="Simulação" src="./sim.jpeg" width="800">
 
-<img alt="Simulação com Indicação" src="./sim2.png" width="800">
+<img alt="Simulação com Indicação" src="./sim2.jpeg" width="800">
 
 ## *Proof of Concept (PoC)*
 
