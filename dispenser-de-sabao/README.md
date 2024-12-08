@@ -47,7 +47,7 @@ No mínimo 1 pessoa.
 4. Médico recebe um novo paciente. 
 5. Após o atendimento, o médico utiliza novamente o dispenser para higienizar as mãos;
 6. Dados sobre a frequência e duração de uso são enviados para um sistema remoto, permitindo monitoramento e controle de suprimentos.
-7. 
+
 ## Simulação
 
 [Link](https://wokwi.com/projects/416623482930152449)
