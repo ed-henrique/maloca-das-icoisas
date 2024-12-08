@@ -43,8 +43,8 @@ No mínimo 1 pessoa.
 
 1. Médico Finaliza atendimento de paciente e se encaminha para a pia, se aproximando do dispenser antes de atender um paciente;
 2. O sensor detecta a presença e libera sabão automaticamente ou mediante o acionamento do botão;
-3. Médico higieniza as mãos, mantendo cuidado com as mãos que foram higienizadas.
-4. Médico recebe um novo paciente. 
+3. Médico higieniza as mãos, mantendo cuidado com as mãos que foram higienizadas;
+4. Médico recebe um novo paciente;
 5. Após o atendimento, o médico utiliza novamente o dispenser para higienizar as mãos;
 6. Dados sobre a frequência e duração de uso são enviados para um sistema remoto, permitindo monitoramento e controle de suprimentos.
 
